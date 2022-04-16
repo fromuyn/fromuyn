@@ -15,4 +15,5 @@ reply: ' No',
 mess: 'Biết ngay là No mà. Anh hem thưn bé',
 messDesc: 'phạt anh phải dạy bơi không công cho bé!',
 btnAccept: 'Ok, anh sẽ mua kem cho bé nữa.',
+messLinks: 'http://m.me/100004602169355'
 }
